@@ -26,5 +26,5 @@ python password_manager.py
 
 👩‍💻 Author
 
-Madhu Prabha# smart-password-manager
-python password manager with encryption
+Madhu Prabha
+![App Screenshot](screenshot.png)
